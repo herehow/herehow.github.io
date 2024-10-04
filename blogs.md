@@ -8,7 +8,7 @@ title: Blogs
 
 ### 2024
 
-- [AAAI 2024 温哥华参会实录](https://herehow.github.io/blogs/aaai-24/)
+<!-- - [AAAI 2024 温哥华参会实录](https://herehow.github.io/blogs/aaai-24/)
 - [24Fall，英国硕士项目申请实录](https://herehow.github.io/blogs/24fall/)
 
 ### 2023
@@ -33,7 +33,7 @@ title: Blogs
 - [18岁，缓慢受锤的黄金年代🎂](https://herehow.github.io/blogs/18yrs)<br>
 - [本科博客，笔记，回忆录](https://mieclance.club/)
 
-<br>
+<br> -->
 
 ## Leave a Message
 
