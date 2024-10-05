@@ -8,7 +8,7 @@ layout: page
 
 <!-- Here is **Hanlin Cai (Lance, 蔡汉霖)**. -->
 
-Welcome to Herehow! I’m passionate about sharing knowledge and insights on various topics that empower and inspire. With a background in [your field or interest], I aim to create a space where readers can find practical information, tips, and guides to enhance their everyday lives. Whether it’s through articles, tutorials, or personal stories, I believe in the power of learning and community. Join me on this journey as we explore new ideas and discover how to make the most out of every situation!
+Welcome to Herehow! I’m passionate about sharing knowledge and insights on various topics that empower and inspire. I aim to create a space where readers can find practical information, tips, and guides to enhance their everyday lives. Whether it’s through articles, tutorials, or personal stories, I believe in the power of learning and community. Join me on this journey as we explore new ideas and discover how to make the most out of every situation!
 
 
 <!-- I am a graduate student in the Department of Engineering at the University of Cambridge, advised by [Prof. Özgür Akan](https://ioe.eng.cam.ac.uk/directory/akan), within [Internet of Everything (IoE) Group](https://ioe.eng.cam.ac.uk/). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/). Prior to Cambridge,  I have worked on System Engineering, Cybersecurity and Wireless Communication with [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Recently, I was honored to be selected as **AAAI and SIGKDD Undergraduate Scholars**.

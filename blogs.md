@@ -4,9 +4,11 @@ permalink: /blogs/index.html
 title: Blogs
 ---
 
-## Chinese Blogs
+<!-- ## Chinese Blogs -->
 
-### 2024
+### How To Do
+[How to Choose a Chinese Name: 3 Effective Approaches](https://herehow.github.io/blogs/how-to-choose-a-chinese-name-3-effective-approaches/)
+
 
 <!-- - [AAAI 2024 温哥华参会实录](https://herehow.github.io/blogs/aaai-24/)
 - [24Fall，英国硕士项目申请实录](https://herehow.github.io/blogs/24fall/)
@@ -46,7 +48,7 @@ title: Blogs
 ## Web Star History
 
 - [Leave a star if you like it 🥰](https://github.com/herehow/herehow.github.io) 
-- 如果你喜欢这个站点，请为我的[Github仓库](https://github.com/herehow/herehow.github.io)留下一个Star吧
+- If you think this site is helpful，please consider star [Github project](https://github.com/herehow/herehow.github.io)
 
 <br>[![Star History Chart](https://api.star-history.com/svg?repos=herehow/herehow.github.io&type=Date)](https://star-history.com/#GuangLun2000/herehow.github.io&Date)
 
