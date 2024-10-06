@@ -9,6 +9,9 @@ title: Blogs
 ### How To Do
 [How to Choose a Chinese Name: 3 Effective Approaches](https://herehow.github.io/blogs/how-to-choose-a-chinese-name-3-effective-approaches/)
 
+[LED Lights: A Comprehensive Guide to Their Applications and Advantages](https://herehow.github.io/blogs/led-lights-comprehensive-guide-applications-advantages)
+
+
 
 <!-- - [AAAI 2024 温哥华参会实录](https://herehow.github.io/blogs/aaai-24/)
 - [24Fall，英国硕士项目申请实录](https://herehow.github.io/blogs/24fall/)
