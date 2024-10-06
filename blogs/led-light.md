@@ -1,12 +1,12 @@
 ---
 layout: page
-permalink: /blogs/led-lights-comprehensive-guide-applications-advantages
-title: LED Lights: A Comprehensive Guide to Their Applications and Advantages
+permalink: /blogs/led-lights-comprehensive-guide-applications-advantages/
+title: LED-Lights
 ---
 
 # LED Lights: A Comprehensive Guide to Their Applications and Advantages
 
-# What is LED Light and How it Work?
+## What is LED Light and How it Work?
 
 <center>
 <img src="/images/led2.webp">
