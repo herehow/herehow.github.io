@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /blogs/led-lights-comprehensive-guide-applications-advantages/
-title: LED-Lights
+title: led-light
 ---
 
 # LED Lights: A Comprehensive Guide to Their Applications and Advantages
