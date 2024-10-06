@@ -7,9 +7,8 @@ title: Blogs
 <!-- ## Chinese Blogs -->
 
 ### How To Do
-[How to Choose a Chinese Name: 3 Effective Approaches](https://herehow.github.io/blogs/how-to-choose-a-chinese-name-3-effective-approaches/)
-
-[LED Lights: A Comprehensive Guide to Their Applications and Advantages](https://herehow.github.io/blogs/led-lights-comprehensive-guide-applications-advantages)
+- [How to Choose a Chinese Name: 3 Effective Approaches](https://herehow.github.io/blogs/how-to-choose-a-chinese-name-3-effective-approaches/)<br>
+- [LED Lights: A Comprehensive Guide to Their Applications and Advantages](https://herehow.github.io/blogs/led-lights-comprehensive-guide-applications-advantages)<br>
 
 
 
